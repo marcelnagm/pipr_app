@@ -1,6 +1,7 @@
 package io.flutter.plugins;
 
 import io.flutter.plugin.common.PluginRegistry;
+import com.mranuran.clipboardmanager.ClipboardManagerPlugin;
 import com.flutter_webview_plugin.FlutterWebviewPlugin;
 import io.flutter.plugins.urllauncher.UrlLauncherPlugin;
 
@@ -12,6 +13,7 @@ public final class GeneratedPluginRegistrant {
     if (alreadyRegisteredWith(registry)) {
       return;
     }
+    ClipboardManagerPlugin.registerWith(registry.registrarFor("com.mranuran.clipboardmanager.ClipboardManagerPlugin"));
     FlutterWebviewPlugin.registerWith(registry.registrarFor("com.flutter_webview_plugin.FlutterWebviewPlugin"));
     UrlLauncherPlugin.registerWith(registry.registrarFor("io.flutter.plugins.urllauncher.UrlLauncherPlugin"));
   }
