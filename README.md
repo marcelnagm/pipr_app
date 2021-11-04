@@ -1,20 +1,27 @@
-<<<<<<< HEAD
-# flutter_app
+#pipr_app
 
-A new Flutter application.
+Aplicativo criado em FLutter para a PRimeira Igreja Presbiteria de Roraima com gestão de eventos públicos da igreja, documentos oficiais, e links de redes sociais.
 
-## Getting Started
+<h3>Tecnologias envolvidas:</h3>
 
-This project is a starting point for a Flutter application.
+Flutter
 
-A few resources to get you started if this is your first Flutter project:
+<b>Requerimentos</b>
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+-Flutter
+-ADB
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
-=======
-# pipr_app
->>>>>>> be0f6032af3e142bb49c31a75389d65b8eb1379a
+English Version -----
+
+#pipr_app
+
+Application created in FLutter for the First Presbytery Church of Roraima with management of public church events, official documents, and social network links.
+
+<h3>Technologies involved:</h3>
+
+Flutter
+
+<b>Requirements</b>
+
+-Flutter
+-ADB
